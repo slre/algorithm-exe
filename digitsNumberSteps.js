@@ -1,4 +1,4 @@
-const digitSteps = ()=> {
+const digitSteps = () => {
     //var digits = '8459761203';
     //var num = '5439';
     let digits = '0123456789';
