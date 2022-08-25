@@ -14,7 +14,6 @@ function listGifts(letter) {
         }
         
     });
-    console.log(tmp);
     return tmpStack;
 }
 
